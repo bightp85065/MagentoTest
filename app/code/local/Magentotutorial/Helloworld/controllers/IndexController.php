@@ -3,9 +3,9 @@
 	    public function indexAction() {
 	        echo 'Hello World';
 	    }
-		public public function googbyeAction()
-		{
-			echo 'Goodbye World!';
-		}
+            public function googbyeAction()
+            {
+                echo 'Goodbye World!';
+            }
 	}
 ?>

@@ -1,0 +1,18 @@
+2017-03-20T10:05:08+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found  in /var/www/public/magentoGitHub/lib/Varien/Simplexml/Config.php on line 510
+2017-03-20T10:05:08+00:00 ERR (3): Warning: simplexml_load_string(): ../../../.modman/Inchoo_PHP7/app/etc/modules/Inchoo_PHP7.xml  in /var/www/public/magentoGitHub/lib/Varien/Simplexml/Config.php on line 510
+2017-03-20T10:05:08+00:00 ERR (3): Warning: simplexml_load_string(): ^  in /var/www/public/magentoGitHub/lib/Varien/Simplexml/Config.php on line 510
+2017-03-21T06:31:19+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found  in /var/www/public/magentoGitHub/lib/Varien/Simplexml/Config.php on line 510
+2017-03-21T06:31:19+00:00 ERR (3): Warning: simplexml_load_string(): ../../../.modman/Inchoo_PHP7/app/etc/modules/Inchoo_PHP7.xml  in /var/www/public/magentoGitHub/lib/Varien/Simplexml/Config.php on line 510
+2017-03-21T06:31:19+00:00 ERR (3): Warning: simplexml_load_string(): ^  in /var/www/public/magentoGitHub/lib/Varien/Simplexml/Config.php on line 510
+2017-03-21T06:42:00+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found  in /var/www/public/magentoGitHub/lib/Varien/Simplexml/Config.php on line 510
+2017-03-21T06:42:00+00:00 ERR (3): Warning: simplexml_load_string(): ../../../.modman/Inchoo_PHP7/app/etc/modules/Inchoo_PHP7.xml  in /var/www/public/magentoGitHub/lib/Varien/Simplexml/Config.php on line 510
+2017-03-21T06:42:00+00:00 ERR (3): Warning: simplexml_load_string(): ^  in /var/www/public/magentoGitHub/lib/Varien/Simplexml/Config.php on line 510
+2017-03-21T09:17:33+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found  in /var/www/public/magentoGitHub/lib/Varien/Simplexml/Config.php on line 510
+2017-03-21T09:17:33+00:00 ERR (3): Warning: simplexml_load_string(): ../../../.modman/Inchoo_PHP7/app/etc/modules/Inchoo_PHP7.xml  in /var/www/public/magentoGitHub/lib/Varien/Simplexml/Config.php on line 510
+2017-03-21T09:17:33+00:00 ERR (3): Warning: simplexml_load_string(): ^  in /var/www/public/magentoGitHub/lib/Varien/Simplexml/Config.php on line 510
+2017-03-21T09:36:47+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found  in /var/www/public/magentoGitHub/lib/Varien/Simplexml/Config.php on line 510
+2017-03-21T09:36:47+00:00 ERR (3): Warning: simplexml_load_string(): ../../../.modman/Inchoo_PHP7/app/etc/modules/Inchoo_PHP7.xml  in /var/www/public/magentoGitHub/lib/Varien/Simplexml/Config.php on line 510
+2017-03-21T09:36:47+00:00 ERR (3): Warning: simplexml_load_string(): ^  in /var/www/public/magentoGitHub/lib/Varien/Simplexml/Config.php on line 510
+2017-03-21T09:36:58+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found  in /var/www/public/magentoGitHub/lib/Varien/Simplexml/Config.php on line 510
+2017-03-21T09:36:58+00:00 ERR (3): Warning: simplexml_load_string(): ../../../.modman/Inchoo_PHP7/app/etc/modules/Inchoo_PHP7.xml  in /var/www/public/magentoGitHub/lib/Varien/Simplexml/Config.php on line 510
+2017-03-21T09:36:58+00:00 ERR (3): Warning: simplexml_load_string(): ^  in /var/www/public/magentoGitHub/lib/Varien/Simplexml/Config.php on line 510

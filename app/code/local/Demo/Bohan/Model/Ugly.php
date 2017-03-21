@@ -1,11 +1,11 @@
 <?php
-    class Demo_Bohan_Model_Handsome{
+    class Demo_Bohan_Model_Ugly{
 
             public static function printSomething(){
-                    echo "Hello world";
+                    echo "Ugly Hello world";
             }
             public static function loginGoodGood(){
-                    echo "login Good Good";
+                    echo "Ugly login Good Good";
                     echo $observer;
             }
 

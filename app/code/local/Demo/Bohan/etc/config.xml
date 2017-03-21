@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+
+<config>
+    <modules>
+        <Demo_Bohan>
+            <version>1.6.0.0.19.1.5</version>
+        </Demo_Bohan>
+    </modules>
+    <frontend>
+        <routers>
+            <bohan>
+                <use>standard</use>
+                <args>
+                    <module>Demo_Bohan</module>
+                    <frontName>bohan</frontName>
+                </args>
+            </bohan>
+        </routers>
+        <events>
+            <customer_login>
+                <observers>
+                    <bohan>
+                        <type>model</type>
+                        <class>Demo/Handsome</class>
+                        <method>loginGoodGood</method>
+                    </bohan>
+                </observers>
+            </customer_login>
+        </events>
+    </frontend>
+    <global>
+        <models>
+            <bohan>
+                <class>Demo_Bohan_Model</class>
+            </bohan>
+        </models>
+    </global>
+</config>
