@@ -19,7 +19,11 @@
  *
  * @category    Mage
  * @package     Mage_Adminhtml
+<<<<<<< HEAD
  * @copyright   Copyright (c) 2006-2017 X.commerce, Inc. and affiliates (http://www.magento.com)
+=======
+ * @copyright   Copyright (c) 2006-2016 X.commerce, Inc. and affiliates (http://www.magento.com)
+>>>>>>> abac84b257ee62410b0c3e44090ff665e94a2d54
  * @license     http://opensource.org/licenses/afl-3.0.php  Academic Free License (AFL 3.0)
  */
 /**************************************************

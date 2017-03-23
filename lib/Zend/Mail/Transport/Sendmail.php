@@ -119,6 +119,7 @@ class Zend_Mail_Transport_Sendmail extends Zend_Mail_Transport_Abstract
                 );
             }
 
+<<<<<<< HEAD
             // Sanitize the From header
             if (!Zend_Validate::is(str_replace(' ', '', $this->parameters), 'EmailAddress')) {
                 throw new Zend_Mail_Transport_Exception('Potential code injection in From header');
@@ -132,6 +133,16 @@ class Zend_Mail_Transport_Sendmail extends Zend_Mail_Transport_Abstract
                     $this->parameters);
                 restore_error_handler();
             }
+=======
+            set_error_handler(array($this, '_handleMailErrors'));
+            $result = mail(
+                $this->recipients,
+                $this->_mail->getSubject(),
+                $this->body,
+                $this->header,
+                $this->parameters);
+            restore_error_handler();
+>>>>>>> abac84b257ee62410b0c3e44090ff665e94a2d54
         }
 
         if ($this->_errstr !== null || !$result) {
