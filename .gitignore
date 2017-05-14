@@ -1,4 +1,4 @@
 *.bak
 *.log 
 *.DS_Store
-var/
+var/*
