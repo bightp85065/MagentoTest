@@ -20,7 +20,15 @@
  *
  * @category    Tests
  * @package     Tests_Functional
+<<<<<<< HEAD
  * @copyright  Copyright (c) 2006-2017 X.commerce, Inc. and affiliates (http://www.magento.com)
+=======
+<<<<<<< HEAD
+ * @copyright  Copyright (c) 2006-2017 X.commerce, Inc. and affiliates (http://www.magento.com)
+=======
+ * @copyright  Copyright (c) 2006-2016 X.commerce, Inc. and affiliates (http://www.magento.com)
+>>>>>>> abac84b257ee62410b0c3e44090ff665e94a2d54
+>>>>>>> 6c05ff371d0578c5d2f72afb551deef880b4d7f4
  * @license    http://opensource.org/licenses/osl-3.0.php  Open Software License (OSL 3.0)
  */
 namespace Mage\CatalogRule\Test\Constraint;

@@ -13,7 +13,15 @@
  *
  * @category    Phoenix
  * @package     Phoenix_Moneybookers
+<<<<<<< HEAD
  * @copyright   Copyright (c) 2017 Phoenix Medien GmbH & Co. KG (http://www.phoenix-medien.de)
+=======
+<<<<<<< HEAD
+ * @copyright   Copyright (c) 2017 Phoenix Medien GmbH & Co. KG (http://www.phoenix-medien.de)
+=======
+ * @copyright   Copyright (c) 2016 Phoenix Medien GmbH & Co. KG (http://www.phoenix-medien.de)
+>>>>>>> abac84b257ee62410b0c3e44090ff665e94a2d54
+>>>>>>> 6c05ff371d0578c5d2f72afb551deef880b4d7f4
  * @license     http://opensource.org/licenses/osl-3.0.php  Open Software License (OSL 3.0)
  */
 
