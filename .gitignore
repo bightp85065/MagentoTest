@@ -1,2 +1,5 @@
 /app/etc/local.xml
 /nbproject/private/
+*.log
+*.tmp
+/var/*
