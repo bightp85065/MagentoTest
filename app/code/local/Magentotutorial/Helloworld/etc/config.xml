@@ -1,10 +1,8 @@
 <config>
-    <modules>
+   <modules>
         <Magentotutorial_Helloworld>
-            <active>true</active>
-            <codePool>local</codePool>
+            <version>0.1.0</version>
         </Magentotutorial_Helloworld>
-        
     </modules>
     <frontend>
             <routers>
